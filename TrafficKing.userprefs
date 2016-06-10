@@ -1,0 +1,24 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="6/10/2016 8:31:05 AM" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main/Game1.cs">
+    <Files>
+      <File FileName="Main/Game1.cs" Line="1" Column="1" />
+      <File FileName="General/World.cs" Line="53" Column="1" />
+      <File FileName="General/AssetsManager.cs" Line="1" Column="1" />
+      <File FileName="General/GameObject.cs" Line="37" Column="22" />
+      <File FileName="GameObjects/DrugsBoat.cs" Line="1" Column="1" />
+      <File FileName="GameObjects/PoliceBoat.cs" Line="1" Column="1" />
+      <File FileName="GameObjects/Package.cs" Line="17" Column="1" />
+      <File FileName="Interfaces/IState.cs" Line="1" Column="1" />
+      <File FileName="States/Floating.cs" Line="1" Column="1" />
+      <File FileName="States/Patrolling.cs" Line="1" Column="1" />
+      <File FileName="States/Aggressive.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/IObserver.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/ICollidable.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

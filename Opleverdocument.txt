@@ -1,0 +1,33 @@
+﻿Interface en inheritance
+Je code maakt gebruik van inheritance en interfaces. Beschrijf in het opleverdocument waar en waarom je voor beide gekozen hebt.
+
+
+
+Abstracte class
+Er is gebruik gemaakt van een abstracte class. Beschrijf in het opleverdocument waar en waarom je dit toegepast hebt.
+
+
+
+In de abstracte class is gebruikt gemaakt van een abstracte functie. Beschrijf in het opleverdocument waar en waarom je dit toegepast hebt.
+
+
+
+Strategy
+Toegepast op een plek zodat het patroon een toegevoegde waarde heeft voor de oplossing. Beschrijf in het opleverdocument waar en waarom je dit toegepast hebt.
+
+
+
+Observer
+Toegepast op een plek zodat het patroon een toegevoegde waarde heeft voor de oplossing. Beschrijf in het opleverdocument waar en waarom je dit toegepast hebt.
+
+
+
+Je hebt een politiestation toegevoegd (mag alleen code zijn) die reageert op berichten. Het politiestation kan nieuwe bootjes aanmaken die gaan patrouilleren
+Is dit gelukt (Ja / Nee):
+
+
+
+Je hebt een eigen nieuwe functionaliteit of stuk gedrag bedacht en toegevoegd aan de game. Dit mag nog niet voorkomen in de code of in de opdrachttekst. 
+Beschrijf in je opleverdocument wat je hebt gebouwd.
+
+
